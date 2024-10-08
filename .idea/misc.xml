@@ -1,10 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="Black">
     <option name="sdkName" value="Python 3.12" />
   </component>
 =======
 >>>>>>> experiments
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (nyc-taxi-time-prediction)" project-jdk-type="Python SDK" />
+=======
+  <component name="Black">
+    <option name="sdkName" value="Python 3.12 (apis)" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (apis)" project-jdk-type="Python SDK" />
+>>>>>>> feat/tarea-5
 </project>

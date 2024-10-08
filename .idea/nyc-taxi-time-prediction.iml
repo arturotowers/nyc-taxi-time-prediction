@@ -5,10 +5,14 @@
       <excludeFolder url="file://$MODULE_DIR$/venv" />
     </content>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <orderEntry type="jdk" jdkName="Python 3.12 (nyc-taxi-time-prediction)" jdkType="Python SDK" />
 =======
     <orderEntry type="inheritedJdk" />
 >>>>>>> experiments
+=======
+    <orderEntry type="jdk" jdkName="Python 3.12 (apis)" jdkType="Python SDK" />
+>>>>>>> feat/tarea-5
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
